@@ -4,7 +4,7 @@
 ## To Run  
 
 ### Install Protractor (globally)
-1. npm install -g protractor  
+npm install -g protractor  
 
 ### Update Selenium Server  
 webdriver-manager update  
